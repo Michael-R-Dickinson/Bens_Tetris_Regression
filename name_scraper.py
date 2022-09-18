@@ -23,6 +23,6 @@ def write_playernames(num_pages, filename):
         aggregate_playerlist.extend(playerlist)
 
     with open(filename, "wb") as f:
-        f.write("\n".join(aggregate_playerlist).encode('ascii', 'ignore'))
+        f.write("\n".join(aggregate_playerlist).encode('utf8'))
 
     return aggregate_playerlist
