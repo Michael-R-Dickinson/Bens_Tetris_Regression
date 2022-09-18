@@ -4,1281 +4,1487 @@
             -0.001714335981034912, 4.388944452017026, 16.961163533171643
         ],
         "metrics": { "RMSE": 13.6181357192492 },
-        "data_length": 4462
+        "data_length": 4462,
+        "warnings": []
     },
     "1081p": {
         "params": [
             -0.005516777172495631, 3.5811505206173355, 27.017587843248094
         ],
         "metrics": { "RMSE": 7.4149057573874995 },
-        "data_length": 374
+        "data_length": 374,
+        "warnings": []
     },
     "1612891990": {
         "params": [-0.00196079686578955, 3.6309243488949865, 27.06618018039845],
         "metrics": { "RMSE": 18.322276735119022 },
-        "data_length": 2687
+        "data_length": 2687,
+        "warnings": []
     },
     "19\ucd08\uac00\uc988\uc544": {
         "params": [
             0.00017301177165991442, 3.038812007488765, 1.0199671063431568
         ],
         "metrics": { "RMSE": 1.6475725043657583 },
-        "data_length": 28
+        "data_length": 28,
+        "warnings": []
     },
     "79797979": {
         "params": [
             -0.010144028900201389, 1.2986502489401208, 27.255655409381422
         ],
         "metrics": { "RMSE": 8.916039680082156 },
-        "data_length": 426
+        "data_length": 426,
+        "warnings": []
     },
     "Aagames": {
         "params": [
             -0.024078791628815092, 3.252344951998466, 32.603507881976476
         ],
         "metrics": { "RMSE": 12.64960041560779 },
-        "data_length": 2482
+        "data_length": 2482,
+        "warnings": []
     },
     "abcdqd": {
         "params": [1.1157475379364915e-5, 6.764715926632568, -840.05403150206],
         "metrics": { "RMSE": 10.177865354133413 },
-        "data_length": 1285
+        "data_length": 1285,
+        "warnings": []
     },
     "AddTagHere": {
         "params": [
             -0.0032725507244433763, 3.3098306069712295, 28.625765809187325
         ],
         "metrics": { "RMSE": 16.85935080729224 },
-        "data_length": 1704
+        "data_length": 1704,
+        "warnings": []
     },
     "Aerio": {
         "params": [
             -0.003437201029191817, 3.3855807717364006, 24.391550571539906
         ],
         "metrics": { "RMSE": 8.812421988310163 },
-        "data_length": 18193
+        "data_length": 18193,
+        "warnings": []
     },
     "ajanba": {
         "params": [
             -0.01944379572501864, 1.9754699850294475, 28.667899990507486
         ],
         "metrics": { "RMSE": 8.917067288072404 },
-        "data_length": 122
+        "data_length": 122,
+        "warnings": []
     },
     "akureyri": {
         "params": [
             -0.013029721708588817, 0.9229971169510219, 28.35829132099638
         ],
         "metrics": { "RMSE": 8.712723316672173 },
-        "data_length": 2041
+        "data_length": 2041,
+        "warnings": []
     },
     "Alexi3TO": {
         "params": [
             0.0070790590614843866, -2.3860349949045836, 36.50345960587315
         ],
         "metrics": { "RMSE": 15.660971496969873 },
-        "data_length": 4884
+        "data_length": 4884,
+        "warnings": []
     },
     "AlvinGreat": {
         "params": [
             -0.0037695598514467473, 3.9969079044119544, 31.162606074690558
         ],
         "metrics": { "RMSE": 13.928498362365794 },
-        "data_length": 1406
+        "data_length": 1406,
+        "warnings": []
     },
     "ameliorate": {
         "params": [2.4774469278656275e-5, 6.10188125016245, -409.0754391803713],
         "metrics": { "RMSE": 17.76541954381409 },
-        "data_length": 1126
+        "data_length": 1126,
+        "warnings": []
     },
     "Amkaaaa": {
         "params": [
             -8.261522554939017e-5, 6.111826233955419, -422.9436305633122
         ],
         "metrics": { "RMSE": 5.964675831198023 },
-        "data_length": 61
+        "data_length": 61,
+        "warnings": []
     },
     "Anameru": {
         "params": [
             0.002418236913064001, -0.5292455693400491, 29.360960039729978
         ],
         "metrics": { "RMSE": 13.804473161829925 },
-        "data_length": 2180
+        "data_length": 2180,
+        "warnings": []
     },
     "archer4": {
         "params": [-4.57272307157893e-6, 6.293174382465858, -510.5906452128536],
         "metrics": { "RMSE": 11.328455490619652 },
-        "data_length": 7138
+        "data_length": 7138,
+        "warnings": []
     },
     "aric5556": {
         "params": [
             -0.012405620321351308, 3.4549813015954753, 35.128287013349215
         ],
         "metrics": { "RMSE": 12.210529346741167 },
-        "data_length": 7807
+        "data_length": 7807,
+        "warnings": []
     },
     "ArisaIchigaya": {
         "params": [-0.00302930750799744, 4.823702171504459, 18.80426993839878],
         "metrics": { "RMSE": 9.113661254585486 },
-        "data_length": 3814
+        "data_length": 3814,
+        "warnings": []
     },
     "arthurdavi11": {
         "params": [
             -0.005616523003141527, 3.625905446842821, 23.828045409956086
         ],
         "metrics": { "RMSE": 6.669695577478373 },
-        "data_length": 7931
+        "data_length": 7931,
+        "warnings": []
     },
     "Awas": {
         "params": [
             -6.486239083695171e-6, 6.933920358577306, -997.5075580955676
         ],
         "metrics": { "RMSE": 1.1535744932112704 },
-        "data_length": 10
+        "data_length": 10,
+        "warnings": []
     },
     "Babysoul": {
         "params": [
             -0.001775111671948509, 1.997566627412294, 26.864773767086223
         ],
         "metrics": { "RMSE": 4.578082159397517 },
-        "data_length": 1251
+        "data_length": 1251,
+        "warnings": []
     },
     "barney": {
         "params": [0.005501471005171167, -7.165744749460325, 25.91030852282502],
         "metrics": { "RMSE": 7.769776818812996 },
-        "data_length": 2007
+        "data_length": 2007,
+        "warnings": []
     },
     "ben": {
         "params": [
             -5.648142738741781e-6, 6.9420795255513115, -999.9999662543871
         ],
         "metrics": { "RMSE": 10.002822169166885 },
-        "data_length": 142
+        "data_length": 142,
+        "warnings": []
     },
     "BentoBoxer": {
         "params": [
             -3.4321064736253676e-6, 6.939243295527215, -999.9991291255652
         ],
         "metrics": { "RMSE": 5.506585851747196 },
-        "data_length": 494
+        "data_length": 494,
+        "warnings": []
     },
     "beyeet": {
         "params": [6.726857031603743e-5, 6.930394066267025, -998.112709267666],
         "metrics": { "RMSE": 9.567292799591968 },
-        "data_length": 29
+        "data_length": 29,
+        "warnings": []
     },
     "birdiesaurus": {
         "params": [
             -1.0482678278801511e-5, 6.739070580194331, -806.6756926729732
         ],
         "metrics": { "RMSE": 10.434701478756896 },
-        "data_length": 554
+        "data_length": 554,
+        "warnings": []
     },
     "Blindboxhead": {
         "params": [
             -0.0024634444910762417, 3.1389208734023106, 29.160419348296823
         ],
         "metrics": { "RMSE": 16.58628170389096 },
-        "data_length": 21627
+        "data_length": 21627,
+        "warnings": []
     },
     "BulletPikachu": {
         "params": [-0.00550263554360018, 4.982234703134965, 38.47837563125025],
         "metrics": { "RMSE": 13.284044780154645 },
-        "data_length": 1878
+        "data_length": 1878,
+        "warnings": []
     },
     "Caboozled_Pie": {
         "params": [
             -5.114907619071512e-6, 6.707736734573744, -783.1893469923922
         ],
         "metrics": { "RMSE": 12.677327123465574 },
-        "data_length": 78
+        "data_length": 78,
+        "warnings": []
     },
     "cheep": {
         "params": [2.654158614404147e-6, 3.246395408272703, 4.466115545224694],
         "metrics": { "RMSE": 17.22172608467439 },
-        "data_length": 4226
+        "data_length": 4226,
+        "warnings": []
     },
     "ChokladTomte": {
         "params": [
             0.0018991426452826961, -0.9262053282019055, 26.299805747262184
         ],
         "metrics": { "RMSE": 5.910083763775988 },
-        "data_length": 3209
+        "data_length": 3209,
+        "warnings": []
     },
     "Circu1ation": {
         "params": [
             -3.0335068619453974e-5, 6.958332225532737, -991.9426790567535
         ],
         "metrics": { "RMSE": 20.68284658669526 },
-        "data_length": 2935
+        "data_length": 2935,
+        "warnings": []
     },
     "cloak": {
         "params": [
             -0.0027595430757760865, 1.8048908921467735, 27.692998776610743
         ],
         "metrics": { "RMSE": 7.726640553329624 },
-        "data_length": 204
+        "data_length": 204,
+        "warnings": []
     },
     "CMDingo": {
         "params": [
             -0.00572810566814255, 3.9049751456003663, 24.573755586000114
         ],
         "metrics": { "RMSE": 4.524104089634115 },
-        "data_length": 91
+        "data_length": 91,
+        "warnings": []
     },
     "Coldless": {
         "params": [
             -0.0009349768959921116, 4.114141647877076, -1.7527474547468949
         ],
         "metrics": { "RMSE": 9.316363452478486 },
-        "data_length": 968
+        "data_length": 968,
+        "warnings": []
     },
     "Cubi": {
         "params": [-0.0013300384571959, 4.689800509069856, 8.201266490383809],
         "metrics": { "RMSE": 16.73276937068544 },
-        "data_length": 1564
+        "data_length": 1564,
+        "warnings": []
     },
     "cuxx": {
         "params": [
             -0.004496781952230539, 0.9216223135463278, 24.26910955732607
         ],
         "metrics": { "RMSE": 5.24230883480296 },
-        "data_length": 328
+        "data_length": 328,
+        "warnings": []
     },
     "Cyber2uo": {
         "params": [
             -0.008451334989444429, 3.9496716892023676, 30.83707442060176
         ],
         "metrics": { "RMSE": 11.91063355948973 },
-        "data_length": 3007
+        "data_length": 3007,
+        "warnings": []
     },
     "cyberinductionDT": {
         "params": [
             -0.017087044444077736, 2.0928691440058964, 21.30639342268187
         ],
         "metrics": { "RMSE": 1.527328031326356 },
-        "data_length": 33
+        "data_length": 33,
+        "warnings": []
     },
     "cyh0821": {
         "params": [
             -0.004962362979921014, 1.0903311000966232, 21.915565258865204
         ],
         "metrics": { "RMSE": 2.5325197020346697 },
-        "data_length": 1919
+        "data_length": 1919,
+        "warnings": []
     },
     "cz0402": {
         "params": [-0.03606230412126434, 2.446588185835519, 30.292848298429348],
         "metrics": { "RMSE": 5.445145802521283 },
-        "data_length": 239
+        "data_length": 239,
+        "warnings": []
     },
     "Daniel": {
         "params": [-0.0016585896988041663, 2.5209197105894314, 24.109557800859],
         "metrics": { "RMSE": 10.817719750968061 },
-        "data_length": 5741
+        "data_length": 5741,
+        "warnings": []
     },
     "deagahelio": {
         "params": [
             -0.009030939822056562, 4.391047397044093, 25.779029356565232
         ],
         "metrics": { "RMSE": 11.739249934322341 },
-        "data_length": 6087
+        "data_length": 6087,
+        "warnings": []
     },
     "Deep_Sea": {
         "params": [
             -0.005028318614488715, 4.182560971299874, 25.833463189327325
         ],
         "metrics": { "RMSE": 4.527434701123643 },
-        "data_length": 1081
+        "data_length": 1081,
+        "warnings": []
     },
     "dicecream": {
         "params": [
             -0.010116217013958097, 3.4175451206768686, 35.79940001880635
         ],
         "metrics": { "RMSE": 12.353009667393266 },
-        "data_length": 5975
+        "data_length": 5975,
+        "warnings": []
     },
     "Donorgyll": {
         "params": [8.321423642877046e-6, 6.790476891870139, -855.8146347746886],
         "metrics": { "RMSE": 13.522668665923296 },
-        "data_length": 3981
+        "data_length": 3981,
+        "warnings": []
     },
     "Doremy": {
         "params": [-0.003388619335097691, 2.811572051233257, 24.37855957967875],
         "metrics": { "RMSE": 4.5623443056194 },
-        "data_length": 577
+        "data_length": 577,
+        "warnings": []
     },
     "ducklife4player": {
         "params": [
             -0.0012993850104397924, 3.6751834278329576, 12.521229026796615
         ],
         "metrics": { "RMSE": 8.03307952536921 },
-        "data_length": 3156
+        "data_length": 3156,
+        "warnings": []
     },
     "EricICX": {
         "params": [-0.007737517321591903, 4.03098355200185, 32.20476064386428],
         "metrics": { "RMSE": 54.20606595397789 },
-        "data_length": 4157
+        "data_length": 4157,
+        "warnings": []
     },
     "eriri": {
         "params": [
             -1.2810183889224856e-5, 6.948331807974637, -998.2026618001871
         ],
         "metrics": { "RMSE": 11.223605778983439 },
-        "data_length": 2402
+        "data_length": 2402,
+        "warnings": []
     },
     "ERROR": {
         "params": [
             -0.0029592119652907525, 3.5681248631415925, 28.026186251333318
         ],
         "metrics": { "RMSE": 6.821832212400514 },
-        "data_length": 412
+        "data_length": 412,
+        "warnings": []
     },
     "euhaha": {
         "params": [
             0.0050825330713253365, 5.316666521247258, -183.9253640850445
         ],
         "metrics": { "RMSE": 0.20835896395903117 },
-        "data_length": 4
+        "data_length": 4,
+        "warnings": []
     },
     "fauzi0": {
         "params": [
             -0.00019167489547727682, 6.929501562835803, -988.1193152171671
         ],
         "metrics": { "RMSE": 2.774376136336809 },
-        "data_length": 72
+        "data_length": 72,
+        "warnings": []
     },
     "FireStorm58": {
         "params": [
             -0.005208625541565253, 3.0828203405618333, 17.01608490140584
         ],
         "metrics": { "RMSE": 22.79912039418313 },
-        "data_length": 13
+        "data_length": 13,
+        "warnings": []
     },
     "fluorine130": {
         "params": [
             -0.007966112688279665, 4.038096420283022, 28.584665847553588
         ],
         "metrics": { "RMSE": 16.97925688035176 },
-        "data_length": 1045
+        "data_length": 1045,
+        "warnings": []
     },
     "fortissim2": {
         "params": [
             -0.0017384320817229485, 3.452403295042985, 17.31923136471517
         ],
         "metrics": { "RMSE": 33.73431485456707 },
-        "data_length": 4052
+        "data_length": 4052,
+        "warnings": []
     },
     "fractal161": {
         "params": [
             -0.0035606060199265127, 3.213281725882817, 23.30997835605568
         ],
         "metrics": { "RMSE": 5.556990920286024 },
-        "data_length": 3599
+        "data_length": 3599,
+        "warnings": []
     },
     "freyhoe": {
         "params": [-0.012585701297903559, 4.777091351360938, 37.79781977094099],
         "metrics": { "RMSE": 18.149818018504813 },
-        "data_length": 2911
+        "data_length": 2911,
+        "warnings": []
     },
     "Fucidin": {
         "params": [
             -0.006001771697664075, 3.8918557853008258, 26.70090881192293
         ],
         "metrics": { "RMSE": 6.002881605502011 },
-        "data_length": 350
+        "data_length": 350,
+        "warnings": []
     },
     "GenDragFan": {
         "params": [-0.01147961092559918, 4.416950191787977, 34.16032605461417],
         "metrics": { "RMSE": 10.886976249304197 },
-        "data_length": 14700
+        "data_length": 14700,
+        "warnings": []
     },
     "GigaWhat": {
         "params": [
             -0.0019271826159274956, 3.6250936138721057, 31.45943957695955
         ],
         "metrics": { "RMSE": 20.070732784956718 },
-        "data_length": 234
+        "data_length": 234,
+        "warnings": []
     },
     "goeasyonme": {
         "params": [
             -0.004649135592636088, 4.304208688035923, 27.915216978032934
         ],
         "metrics": { "RMSE": 16.106115063524147 },
-        "data_length": 424
+        "data_length": 424,
+        "warnings": []
     },
     "hightech": {
         "params": [
             -9.593758639654663e-6, 6.255688385909921, -486.25870640603506
         ],
         "metrics": { "RMSE": 7.440782223812981 },
-        "data_length": 751
+        "data_length": 751,
+        "warnings": []
     },
     "hiryu": {
         "params": [-0.0073721576433512, 3.8169150178961764, 30.147749558579385],
         "metrics": { "RMSE": 14.686007059087087 },
-        "data_length": 8121
+        "data_length": 8121,
+        "warnings": []
     },
     "holdless": {
         "params": [0.0351272921852733, 1.2899577323276175, 20.594133703148415],
         "metrics": { "RMSE": 8.956177216770378 },
-        "data_length": 50
+        "data_length": 50,
+        "warnings": []
     },
     "hyomin": {
         "params": [
             -3.862267368508139e-6, 6.929998241400215, -990.3595450095722
         ],
         "metrics": { "RMSE": 5.46647834073719 },
-        "data_length": 756
+        "data_length": 756,
+        "warnings": []
     },
     "ICLY": {
         "params": [
             -0.00757815177215563, 0.9354743627261556, 18.573498954780398
         ],
         "metrics": { "RMSE": 2.6834571253410076 },
-        "data_length": 770
+        "data_length": 770,
+        "warnings": []
     },
     "Intris": {
         "params": [7.044106693123248e-6, 6.932475037133953, -991.4429240084253],
         "metrics": { "RMSE": 10.775972850276995 },
-        "data_length": 7424
+        "data_length": 7424,
+        "warnings": []
     },
     "jason0107": {
         "params": [
             8.734647711768743e-6, 6.284635078626772, -510.20391316636073
         ],
         "metrics": { "RMSE": 25.613388709194776 },
-        "data_length": 85
+        "data_length": 85,
+        "warnings": []
     },
     "jed": {
         "params": [
             -0.00030643177623487636, 3.4288712458435686, 7.3995574358115395
         ],
         "metrics": { "RMSE": 4.812202243830653 },
-        "data_length": 1135
+        "data_length": 1135,
+        "warnings": []
     },
     "Judiciousity": {
         "params": [
             -0.003765593072941535, 3.8302038992734824, 24.683388092019605
         ],
         "metrics": { "RMSE": 8.799753897061775 },
-        "data_length": 416
+        "data_length": 416,
+        "warnings": []
     },
     "Justin1L8": {
         "params": [-0.018302772362779315, 3.756334302651149, 34.72463260154176],
         "metrics": { "RMSE": 16.596617277239208 },
-        "data_length": 8834
+        "data_length": 8834,
+        "warnings": []
     },
     "juwulian": {
         "params": [
             -0.0015455038314271584, 4.202482828643604, 30.96863324484533
         ],
         "metrics": { "RMSE": 29.35542648393831 },
-        "data_length": 602
+        "data_length": 602,
+        "warnings": []
     },
     "jyin": {
         "params": [
             -0.0036365306837270826, 3.670975963177984, 19.707556477368236
         ],
         "metrics": { "RMSE": 6.717810581091355 },
-        "data_length": 3070
+        "data_length": 3070,
+        "warnings": []
     },
     "kdh7558": {
         "params": [-0.003915148736866021, 4.183866590713368, 24.30034893677405],
         "metrics": { "RMSE": 11.591655076840487 },
-        "data_length": 2410
+        "data_length": 2410,
+        "warnings": []
     },
     "Kelvin": {
         "params": [
             -0.003724205354260801, 3.9155630307386224, 21.860874347633597
         ],
         "metrics": { "RMSE": 6.476052782142581 },
-        "data_length": 4404
+        "data_length": 4404,
+        "warnings": []
     },
     "Keshyyyyy": {
         "params": [
             -3.397982820995118e-5, 6.974299222849334, -999.9999982441846
         ],
         "metrics": { "RMSE": 26.94669581707955 },
-        "data_length": 978
+        "data_length": 978,
+        "warnings": []
     },
     "kevinhe828": {
         "params": [
             -0.007570605372487519, 4.1653996794645085, 24.954003085409266
         ],
         "metrics": { "RMSE": 9.2424040147968 },
-        "data_length": 8641
+        "data_length": 8641,
+        "warnings": []
     },
     "KezDaBez": {
         "params": [
             -0.0018763982267116343, 3.445363736992304, 25.385653361855624
         ],
         "metrics": { "RMSE": 19.887498611000076 },
-        "data_length": 4796
+        "data_length": 4796,
+        "warnings": []
     },
     "kimarle": {
         "params": [-0.014088104697353507, 3.624066968492916, 29.82047762586797],
         "metrics": { "RMSE": 19.348024818854206 },
-        "data_length": 8814
+        "data_length": 8814,
+        "warnings": []
     },
     "Kirigo": {
         "params": [
             -0.0019084396308474724, 3.8579731630881304, 17.635308074881223
         ],
         "metrics": { "RMSE": 7.302424844137051 },
-        "data_length": 2155
+        "data_length": 2155,
+        "warnings": []
     },
     "Kizuna_AI": {
         "params": [7.571592671052644e-6, 4.266673106708366, -32.88334018459687],
         "metrics": { "RMSE": 13.37185321078123 },
-        "data_length": 7833
+        "data_length": 7833,
+        "warnings": []
     },
     "konchu": {
         "params": [
             -0.008405838658228445, 2.6324039779314417, 37.167300732079596
         ],
         "metrics": { "RMSE": 22.706298361527843 },
-        "data_length": 4494
+        "data_length": 4494,
+        "warnings": []
     },
     "kwikscoper": {
         "params": [
             -3.16473612833577e-5, 6.297080939228481, -508.14999650827195
         ],
         "metrics": { "RMSE": 8.60605398481017 },
-        "data_length": 247
+        "data_length": 247,
+        "warnings": []
     },
     "leonid": {
         "params": [
             -0.004237469506077031, 3.4059039969403266, 23.831439353503185
         ],
         "metrics": { "RMSE": 3.640242443011032 },
-        "data_length": 34335
+        "data_length": 34335,
+        "warnings": []
     },
     "LMFinish": {
         "params": [-0.00883169260224633, 3.6517536075220556, 26.98848275613066],
         "metrics": { "RMSE": 6.761446389547064 },
-        "data_length": 59
+        "data_length": 59,
+        "warnings": []
     },
     "loal123": {
         "params": [-0.008990822857837808, 4.369902110682575, 30.56404365317147],
         "metrics": { "RMSE": 28.926666957253328 },
-        "data_length": 143
+        "data_length": 143,
+        "warnings": []
     },
     "Loliowololi": {
         "params": [
             -0.009176952279487715, 4.187885614652839, 29.932774399162216
         ],
         "metrics": { "RMSE": 14.160515885102937 },
-        "data_length": 2002
+        "data_length": 2002,
+        "warnings": []
     },
     "luminaries": {
         "params": [
             -0.007696318548303546, 3.9084616805925663, 36.95696466592732
         ],
         "metrics": { "RMSE": 8.506036195316252 },
-        "data_length": 2140
+        "data_length": 2140,
+        "warnings": []
     },
     "maize89": {
         "params": [-0.0038479122934766603, 4.295479261827305, 44.5238004519891],
         "metrics": { "RMSE": 30.919440957259727 },
-        "data_length": 815
+        "data_length": 815,
+        "warnings": []
     },
     "Manifestation": {
         "params": [0.024736085539544768, -5.672511658757995, 21.90142894356151],
         "metrics": { "RMSE": 2.305335540051167 },
-        "data_length": 222
+        "data_length": 222,
+        "warnings": []
     },
     "Master": {
         "params": [
             0.0028156105745075644, 0.21968140138327022, 12.46585537766997
         ],
         "metrics": { "RMSE": 38.99741647739128 },
-        "data_length": 1068
+        "data_length": 1068,
+        "warnings": []
     },
     "mat1jaczyyy": {
         "params": [
             -0.003333475212180595, 3.2053119277103517, 27.40372563596863
         ],
         "metrics": { "RMSE": 16.17479144127622 },
-        "data_length": 3267
+        "data_length": 3267,
+        "warnings": []
     },
     "Mayrink": {
         "params": [
             0.0031458984167402728, -3.216794888007587, 28.778012238908193
         ],
         "metrics": { "RMSE": 5.6028018200164 },
-        "data_length": 6757
+        "data_length": 6757,
+        "warnings": []
     },
     "meipuru": {
         "params": [9.79898417458462e-5, 6.770335344944445, -832.852565999057],
         "metrics": { "RMSE": 8.487950482860306 },
-        "data_length": 118
+        "data_length": 118,
+        "warnings": []
     },
     "melanch0ly": {
         "params": [
             -3.865966109642049e-5, 6.911601034264525, -951.7397089776947
         ],
         "metrics": { "RMSE": 16.778315984374874 },
-        "data_length": 2492
+        "data_length": 2492,
+        "warnings": []
     },
     "meppydc": {
         "params": [
             -0.0037208967857287976, 4.188051670419407, 24.575793085505488
         ],
         "metrics": { "RMSE": 21.3074665898571 },
-        "data_length": 5368
+        "data_length": 5368,
+        "warnings": []
     },
     "Merlin69": {
         "params": [
             2.0244532791226097e-5, 3.2230155948437633, -0.20021534441169084
         ],
         "metrics": { "RMSE": 7.785356410277588 },
-        "data_length": 946
+        "data_length": 946,
+        "warnings": []
     },
     "Metro_22": {
         "params": [-0.0023357035424338055, 4.0085164064529, 16.41916777483414],
         "metrics": { "RMSE": 81.40713523186308 },
-        "data_length": 4080
+        "data_length": 4080,
+        "warnings": []
     },
     "MgCaSi2O6": {
         "params": [
             -0.004245860091712826, 3.5141320519397476, 23.45304406668727
         ],
         "metrics": { "RMSE": 19.377193896623584 },
-        "data_length": 13860
+        "data_length": 13860,
+        "warnings": []
     },
     "MicroJizz": {
         "params": [-0.00612500665637076, 3.245144229355729, 33.269386806664606],
         "metrics": { "RMSE": 20.81445716992575 },
-        "data_length": 6894
+        "data_length": 6894,
+        "warnings": []
     },
     "Minase": {
         "params": [
             -0.002695593406661673, 1.5193025263137796, 25.118450189877866
         ],
         "metrics": { "RMSE": 3.439201731646237 },
-        "data_length": 417
+        "data_length": 417,
+        "warnings": []
     },
     "Mizawa": {
         "params": [
             2.0355847324548444e-5, 6.941644204375491, -999.9965659415329
         ],
         "metrics": { "RMSE": 14.791100660215617 },
-        "data_length": 1450
+        "data_length": 1450,
+        "warnings": []
     },
     "monkeyida": {
         "params": [
             -0.004984120962444037, 1.1803751526974007, 32.67019034059685
         ],
         "metrics": { "RMSE": 12.254675388948783 },
-        "data_length": 114
+        "data_length": 114,
+        "warnings": []
     },
     "MrFaq2018": {
         "params": [-0.0025648740671736794, 3.64487308461312, 27.22882159771885],
         "metrics": { "RMSE": 5.290252886348336 },
-        "data_length": 1162
+        "data_length": 1162,
+        "warnings": []
     },
     "NAIROD7": {
         "params": [
             0.002055738223338936, -1.1894258310081007, 28.846716853742027
         ],
         "metrics": { "RMSE": 15.04083499418041 },
-        "data_length": 1529
+        "data_length": 1529,
+        "warnings": []
     },
     "neon_paradox": {
         "params": [
             -0.0031458905266428696, 3.523468521542322, 18.36864972281147
         ],
         "metrics": { "RMSE": 11.847426774897535 },
-        "data_length": 438
+        "data_length": 438,
+        "warnings": []
     },
     "NetherProdigy": {
         "params": [
             -0.004496463017897582, 2.8513690147449675, 29.990595356013106
         ],
         "metrics": { "RMSE": 15.838968558859017 },
-        "data_length": 312
+        "data_length": 312,
+        "warnings": []
     },
     "nogons": {
         "params": [-0.004288750934270201, 3.250865764316095, 32.341741704405],
         "metrics": { "RMSE": 6.960368660473797 },
-        "data_length": 18521
+        "data_length": 18521,
+        "warnings": []
     },
     "notvbp": {
         "params": [2.479416689103919e-5, 6.796991568140709, -861.6520381244407],
         "metrics": { "RMSE": 16.22537157253518 },
-        "data_length": 672
+        "data_length": 672,
+        "warnings": []
     },
     "Oboloptis": {
         "params": [
             -0.008413965864930699, 4.688215753432402, 35.255656965830056
         ],
         "metrics": { "RMSE": 14.36455647939543 },
-        "data_length": 1759
+        "data_length": 1759,
+        "warnings": []
     },
     "Octopust": {
         "params": [0.008327306830490452, -4.699306751762098, 40.52074078297609],
         "metrics": { "RMSE": 14.63775841269311 },
-        "data_length": 19639
+        "data_length": 19639,
+        "warnings": []
     },
     "Opium": {
         "params": [
             0.010019526199449146, -12.911081604570889, 29.68817927765057
         ],
         "metrics": { "RMSE": 11.27001141700333 },
-        "data_length": 770
+        "data_length": 770,
+        "warnings": []
     },
     "oppopo": {
         "params": [
             -0.004606327816084651, 1.573164462223717, 27.590574320256366
         ],
         "metrics": { "RMSE": 7.986189242600399 },
-        "data_length": 1452
+        "data_length": 1452,
+        "warnings": []
     },
     "orange_juice": {
         "params": [
             -0.0026443256951209936, 2.7189684788447823, 20.148342090848782
         ],
         "metrics": { "RMSE": 6.244446525654932 },
-        "data_length": 2234
+        "data_length": 2234,
+        "warnings": []
     },
     "Oranstar": {
         "params": [
             -1.9874404271704153e-5, 6.908727334577627, -952.3486114726518
         ],
         "metrics": { "RMSE": 11.881145719896017 },
-        "data_length": 2548
+        "data_length": 2548,
+        "warnings": []
     },
     "Original": {
         "params": [
             -0.008623489022595113, 2.8440693691443024, 32.74927153254099
         ],
         "metrics": { "RMSE": 29.498532464323272 },
-        "data_length": 913
+        "data_length": 913,
+        "warnings": []
     },
     "orz": {
         "params": [
             -0.0037978917028104785, 3.8676581754351367, 27.873428056332923
         ],
         "metrics": { "RMSE": 8.14938494295034 },
-        "data_length": 9392
+        "data_length": 9392,
+        "warnings": []
     },
     "OSW": {
         "params": [
             -1.2756567468155268e-5, 6.896621281038601, -952.1430334723487
         ],
         "metrics": { "RMSE": 15.998830367323107 },
-        "data_length": 223
+        "data_length": 223,
+        "warnings": []
     },
     "ovie": {
         "params": [
             -0.007287751504509391, 3.0715897470192317, 27.273484414220334
         ],
         "metrics": { "RMSE": 12.178440856334626 },
-        "data_length": 2238
+        "data_length": 2238,
+        "warnings": []
     },
     "oyes123": {
         "params": [
             0.0012486149184165166, 3.5208951573599716, 1.9451622764800673
         ],
         "metrics": { "RMSE": 17.346737154148393 },
-        "data_length": 30
+        "data_length": 30,
+        "warnings": []
     },
     "Payces": {
         "params": [3.515780612225966e-5, 6.931430749411688, -995.814604057151],
         "metrics": { "RMSE": 14.010957618045827 },
-        "data_length": 36
+        "data_length": 36,
+        "warnings": []
     },
     "Phat": {
         "params": [
             0.010330118231462298, 0.6182951866593441, 22.839551185883955
         ],
         "metrics": { "RMSE": 5.793529548160012 },
-        "data_length": 377
+        "data_length": 377,
+        "warnings": []
     },
     "Playing_Cards": {
         "params": [-0.9652563535846285, 4.139100449843631, 26.891485387163787],
         "metrics": { "RMSE": 6.106105085180898 },
-        "data_length": 3812
+        "data_length": 3812,
+        "warnings": []
     },
     "PokeDialga": {
         "params": [
             -4.434806974531043e-6, 6.9387438551501965, -997.181840915357
         ],
         "metrics": { "RMSE": 2.807908833278279 },
-        "data_length": 1277
+        "data_length": 1277,
+        "warnings": []
     },
     "Potatoes": {
         "params": [
             -0.0009378051633977286, 4.522295222948265, -10.674208762501666
         ],
         "metrics": { "RMSE": 9.63202581412883 },
-        "data_length": 1076
+        "data_length": 1076,
+        "warnings": []
     },
     "PoussiPoyo": {
         "params": [
             -0.008241386262347631, 4.400672039814589, 22.304343192438008
         ],
         "metrics": { "RMSE": 21.28575836150531 },
-        "data_length": 515
+        "data_length": 515,
+        "warnings": []
     },
     "Promooooooo": {
         "params": [
             -0.0029588205253415715, 3.2325693091470327, 19.37369894271859
         ],
         "metrics": { "RMSE": 8.133032154911744 },
-        "data_length": 116
+        "data_length": 116,
+        "warnings": []
     },
     "QL4707": {
         "params": [-0.008012708321080498, 2.526617328830395, 25.70566028897729],
         "metrics": { "RMSE": 7.331252121466405 },
-        "data_length": 450
+        "data_length": 450,
+        "warnings": []
     },
     "quantumh": {
         "params": [-0.00655672915932814, 4.304681458004417, 23.91196138659859],
         "metrics": { "RMSE": 6.84858550081331 },
-        "data_length": 2971
+        "data_length": 2971,
+        "warnings": []
     },
     "QuickandSmart": {
         "params": [
             -0.002555093310515831, 4.003659045865512, 37.571574781463994
         ],
         "metrics": { "RMSE": 439.36468750465934 },
-        "data_length": 10328
+        "data_length": 10328,
+        "warnings": []
     },
     "qwerty": {
         "params": [
             -6.852055797223507e-6, 6.778813747064806, -845.6354435660319
         ],
         "metrics": { "RMSE": 31.502506920325878 },
-        "data_length": 2132
+        "data_length": 2132,
+        "warnings": []
     },
     "Reset_": {
         "params": [
             -0.0032554111568293613, 3.1656457724913283, 18.870429267633533
         ],
         "metrics": { "RMSE": 18.195054155123277 },
-        "data_length": 2738
+        "data_length": 2738,
+        "warnings": []
     },
     "rin": {
         "params": [
             -7.558372239076795e-6, 5.999910416749008, -360.9005137921915
         ],
         "metrics": { "RMSE": 17.52757044107908 },
-        "data_length": 59
+        "data_length": 59,
+        "warnings": []
     },
     "Riviclia": {
         "params": [
             0.0002625292877449881, 2.8265015487953953, 9.948334248488864
         ],
         "metrics": { "RMSE": 22.4188574487868 },
-        "data_length": 1954
+        "data_length": 1954,
+        "warnings": []
     },
     "rky1618": {
         "params": [
             -0.004027181150619652, 4.777055501425228, 23.549870352196493
         ],
         "metrics": { "RMSE": 48.252203945613786 },
-        "data_length": 1969
+        "data_length": 1969,
+        "warnings": []
     },
     "schmooey": {
         "params": [0.000143847335365954, 6.933757989612222, -999.9985869431755],
         "metrics": { "RMSE": 8.790913597545137 },
-        "data_length": 417
+        "data_length": 417,
+        "warnings": []
     },
     "SHADOWSMILEY": {
         "params": [
             -0.0026152692033365264, 1.5717051881990343, 39.62199062780124
         ],
         "metrics": { "RMSE": 2.9255157137366554 },
-        "data_length": 13879
+        "data_length": 13879,
+        "warnings": []
     },
     "Shan": {
         "params": [
             -0.007946262196871478, 2.958525287109727, 29.380708947623976
         ],
         "metrics": { "RMSE": 14.41293526122147 },
-        "data_length": 4493
+        "data_length": 4493,
+        "warnings": []
     },
     "silvercasual": {
         "params": [
             -2.6567334393548372e-5, 6.913462913649816, -964.1671887686762
         ],
         "metrics": { "RMSE": 20.085900902736597 },
-        "data_length": 813
+        "data_length": 813,
+        "warnings": []
     },
     "SilveryFlare": {
         "params": [1.316764046729492e-5, 6.883093022431523, -945.6714206929595],
         "metrics": { "RMSE": 7.571611720159297 },
-        "data_length": 196
+        "data_length": 196,
+        "warnings": []
     },
     "SimpShrimp": {
         "params": [-0.00983483328836029, 3.9202990558775266, 35.5128093584691],
         "metrics": { "RMSE": 12.978992600578257 },
-        "data_length": 291
+        "data_length": 291,
+        "warnings": []
     },
     "sjrnfl": {
         "params": [5.333822204924529e-5, 6.930694085698208, -999.999999855166],
         "metrics": { "RMSE": 18.061964782811927 },
-        "data_length": 10
+        "data_length": 10,
+        "warnings": []
     },
     "sm999": {
         "params": [0.00561815803048833, -2.4887828751582184, 21.81471068527776],
         "metrics": { "RMSE": 9.228594279552777 },
-        "data_length": 339
+        "data_length": 339,
+        "warnings": []
     },
     "smolfeesh": {
         "params": [
             -3.810293349791453e-5, 5.8827252083217605, -311.75038195469995
         ],
         "metrics": { "RMSE": 17.445072199422455 },
-        "data_length": 213
+        "data_length": 213,
+        "warnings": []
     },
     "snekysquid": {
         "params": [
             -0.0032432149172247474, 3.831623498028855, 24.375608737826706
         ],
         "metrics": { "RMSE": 44.13388253129936 },
-        "data_length": 9378
+        "data_length": 9378,
+        "warnings": []
     },
     "SodiumOverdose": {
         "params": [
             -0.0031384998376374302, 3.5651283215201386, 20.662265629608537
         ],
         "metrics": { "RMSE": 7.858797108026906 },
-        "data_length": 3159
+        "data_length": 3159,
+        "warnings": []
     },
     "SoGui": {
         "params": [
             -0.007790883246671487, 1.5346988757444617, 34.167769041885926
         ],
         "metrics": { "RMSE": 9.465861626700484 },
-        "data_length": 731
+        "data_length": 731,
+        "warnings": []
     },
     "SophieTwilight": {
         "params": [
             -0.003953962018851572, 3.8863793512812577, 26.68598224175355
         ],
         "metrics": { "RMSE": 63.35431908731902 },
-        "data_length": 2897
+        "data_length": 2897,
+        "warnings": []
     },
     "speechless188": {
         "params": [
             -0.012896264401819962, 2.7926136696767547, 43.11835284843307
         ],
         "metrics": { "RMSE": 16.96897511435718 },
-        "data_length": 3425
+        "data_length": 3425,
+        "warnings": []
     },
     "Squeaky1": {
         "params": [
             -0.005200713191218525, 3.607896496392969, 19.743471647453898
         ],
         "metrics": { "RMSE": 4.73004232732565 },
-        "data_length": 6844
+        "data_length": 6844,
+        "warnings": []
     },
     "Squirtle": {
         "params": [
             -6.215092985751151e-6, 6.934773227546677, -994.3661064553054
         ],
         "metrics": { "RMSE": 2.7850897716045773 },
-        "data_length": 1642
+        "data_length": 1642,
+        "warnings": []
     },
     "SSENdal": {
         "params": [
             -4.746296618976589e-6, 6.172136677745562, -446.91557866003734
         ],
         "metrics": { "RMSE": 8.260109291872856 },
-        "data_length": 266
+        "data_length": 266,
+        "warnings": []
     },
     "sudo4896": {
         "params": [4.085043853075971e-5, 4.957348684332344, -119.1689438527032],
         "metrics": { "RMSE": 1.51153253253893 },
-        "data_length": 11
+        "data_length": 11,
+        "warnings": []
     },
     "sushi_rubi": {
         "params": [-5.249762650057024e-6, 6.819680683444137, -883.530747301756],
         "metrics": { "RMSE": 5.243738047953425 },
-        "data_length": 301
+        "data_length": 301,
+        "warnings": []
     },
     "Svenne": {
         "params": [-0.012072290158459977, 3.547846129507283, 43.2879671398344],
         "metrics": { "RMSE": 100.88538537645948 },
-        "data_length": 7220
+        "data_length": 7220,
+        "warnings": []
     },
     "Syperion": {
         "params": [
             0.0009248996943250349, 0.45666301143739896, 20.75063216024581
         ],
         "metrics": { "RMSE": 2.4094656388276308 },
-        "data_length": 436
+        "data_length": 436,
+        "warnings": []
     },
     "TeaGa520": {
         "params": [
             -3.610749844895813e-6, 6.897816974514934, -953.3979545476647
         ],
         "metrics": { "RMSE": 32.48256204930045 },
-        "data_length": 3201
+        "data_length": 3201,
+        "warnings": []
     },
     "TEBO_Moi": {
         "params": [
             -0.005679976851025664, 3.2011957850640127, 25.17963966192809
         ],
         "metrics": { "RMSE": 8.685834907043073 },
-        "data_length": 3254
+        "data_length": 3254,
+        "warnings": []
     },
     "thorguy": {
         "params": [
             -0.004476475275420184, 4.3972568733680015, 19.163483581635067
         ],
         "metrics": { "RMSE": 119.86917356712675 },
-        "data_length": 1479
+        "data_length": 1479,
+        "warnings": []
     },
     "tingyu": {
         "params": [
             -0.014344742947249245, 2.0353915405124754, 20.657371960402568
         ],
         "metrics": { "RMSE": 1.8891849958597686 },
-        "data_length": 69
+        "data_length": 69,
+        "warnings": []
     },
     "tmtsumori": {
         "params": [-0.0135290858788081, 3.093571536605014, 39.051720940156564],
         "metrics": { "RMSE": 20.931155903236178 },
-        "data_length": 196
+        "data_length": 196,
+        "warnings": []
     },
     "Togaia": {
         "params": [
             -0.0039848588377715335, 3.1595361151163215, 20.46987079509501
         ],
         "metrics": { "RMSE": 13.490973462078763 },
-        "data_length": 1939
+        "data_length": 1939,
+        "warnings": []
     },
     "Tosha": {
         "params": [-0.009882552025555363, 4.328753298006643, 30.26351814263685],
         "metrics": { "RMSE": 10.867307061071426 },
-        "data_length": 213
+        "data_length": 213,
+        "warnings": []
     },
     "toyboy": {
         "params": [
             -0.0009976079967684644, 3.7643521167786846, 13.688873907293372
         ],
         "metrics": { "RMSE": 9.302594059948133 },
-        "data_length": 2414
+        "data_length": 2414,
+        "warnings": []
     },
     "Tracque_": {
         "params": [
             -0.003499627733794997, 3.361427531095347, 24.407976087942306
         ],
         "metrics": { "RMSE": 10.750238435155497 },
-        "data_length": 2917
+        "data_length": 2917,
+        "warnings": []
     },
     "TrapCoat": {
         "params": [-0.004406048709727313, 3.985471163113112, 41.33309069860751],
         "metrics": { "RMSE": 12.877533980785845 },
-        "data_length": 2412
+        "data_length": 2412,
+        "warnings": []
     },
     "trueirony": {
         "params": [
             -0.0026348134194531234, 3.3698976944050822, 31.37491625567111
         ],
         "metrics": { "RMSE": 12.677658428606975 },
-        "data_length": 7144
+        "data_length": 7144,
+        "warnings": []
     },
     "truongquanglob": {
         "params": [
             -0.006605865039281543, 3.362110436732487, 15.046467506504587
         ],
         "metrics": { "RMSE": 4.238147492953986 },
-        "data_length": 13
+        "data_length": 13,
+        "warnings": []
     },
     "Ultranooby": {
         "params": [
             4.029408024051769e-6, 5.588502411498595, -233.33861377474545
         ],
         "metrics": { "RMSE": 19.846393088513956 },
-        "data_length": 6821
+        "data_length": 6821,
+        "warnings": []
     },
     "Unreal24": {
         "params": [
             -0.003359821894473514, 3.5882779868213444, 24.241193357894556
         ],
         "metrics": { "RMSE": 5.532340712680269 },
-        "data_length": 1469
+        "data_length": 1469,
+        "warnings": []
     },
     "veritas": {
         "params": [
             -5.724544389386728e-5, 4.457073810532063, -55.25540196931375
         ],
         "metrics": { "RMSE": 11.076567867966054 },
-        "data_length": 454
+        "data_length": 454,
+        "warnings": []
     },
     "veronika": {
         "params": [
             -0.00692503464010496, 3.2882475504373896, 30.971995124462623
         ],
         "metrics": { "RMSE": 15.961437647367381 },
-        "data_length": 4580
+        "data_length": 4580,
+        "warnings": []
     },
     "vichev_": {
         "params": [
             5.9817848693013016e-5, 5.402641303236044, -186.52911149456105
         ],
         "metrics": { "RMSE": 14.170155433018758 },
-        "data_length": 228
+        "data_length": 228,
+        "warnings": []
     },
     "VIII2IV": {
         "params": [-0.03823281404619984, 2.527788097844072, 25.98062431592285],
         "metrics": { "RMSE": 6.185042527876468 },
-        "data_length": 528
+        "data_length": 528,
+        "warnings": []
     },
     "Viikinki": {
         "params": [-0.4461911833102664, 3.3281531939293765, 28.623383897938044],
         "metrics": { "RMSE": 6.972997455781017 },
-        "data_length": 838
+        "data_length": 838,
+        "warnings": []
     },
     "VinceHD": {
         "params": [
             -0.0022489834154859785, 2.322548660233821, 21.266289368469494
         ],
         "metrics": { "RMSE": 5.748091223806081 },
-        "data_length": 6626
+        "data_length": 6626,
+        "warnings": []
     },
     "Warspite": {
         "params": [
             -1.369889759677831e-5, 6.883244269023157, -949.8966405584544
         ],
         "metrics": { "RMSE": 1.5692728311794153 },
-        "data_length": 25
+        "data_length": 25,
+        "warnings": []
     },
     "Waterheart": {
         "params": [
             -0.008053203415733394, 4.004063195558207, 30.044705620186924
         ],
         "metrics": { "RMSE": 9.318467055281701 },
-        "data_length": 439
+        "data_length": 439,
+        "warnings": []
     },
     "weewooweewoooo": {
         "params": [-0.005935836088599528, 3.167872605829231, 28.09630250412208],
         "metrics": { "RMSE": 9.493584761441019 },
-        "data_length": 565
+        "data_length": 565,
+        "warnings": []
     },
     "wertj": {
         "params": [
             -0.0011062268598968372, 3.6909250892814254, 16.02291688359738
         ],
         "metrics": { "RMSE": 15.9637609480731 },
-        "data_length": 1784
+        "data_length": 1784,
+        "warnings": []
     },
     "wimp": {
         "params": [
             -0.016622957395741406, 4.570590823570877, 30.183659686625408
         ],
         "metrics": { "RMSE": 5.879676672931615 },
-        "data_length": 9775
+        "data_length": 9775,
+        "warnings": []
     },
     "Wolseong": {
         "params": [
             -0.007211126355532544, 2.8865698231527195, 34.847104716348944
         ],
         "metrics": { "RMSE": 205.11709018292495 },
-        "data_length": 10910
+        "data_length": 10910,
+        "warnings": []
     },
     "Woojung03": {
         "params": [
             -0.008207111054574471, 1.8609460829655056, 19.13735748046872
         ],
         "metrics": { "RMSE": 1.1496555043062504 },
-        "data_length": 1150
+        "data_length": 1150,
+        "warnings": []
     },
     "wootae8031": {
         "params": [
             -0.0017983984403544158, 2.8043865935874996, 32.67114818635033
         ],
         "metrics": { "RMSE": 14.060350142721079 },
-        "data_length": 1589
+        "data_length": 1589,
+        "warnings": []
     },
     "x0plusTab": {
         "params": [
             0.0008325034985268327, 4.692048388825694, -91.03159852837119
         ],
         "metrics": { "RMSE": 669.2349975845091 },
-        "data_length": 1475
+        "data_length": 1475,
+        "warnings": []
     },
     "yakine": {
         "params": [
             1.5686026914741305e-5, 6.933438063046228, -996.6663764994862
         ],
         "metrics": { "RMSE": 58.60101183708455 },
-        "data_length": 1434
+        "data_length": 1434,
+        "warnings": []
     },
     "YGG": {
         "params": [0.008799019087264022, -2.708628603180484, 24.08010966626937],
         "metrics": { "RMSE": 6.099324426374863 },
-        "data_length": 245
+        "data_length": 245,
+        "warnings": []
     },
     "Yicen": {
         "params": [
             -0.017168332020558272, -0.4354664819813074, 17.96231802551397
         ],
         "metrics": { "RMSE": 0.5298163728785884 },
-        "data_length": 1495
+        "data_length": 1495,
+        "warnings": []
     },
     "Your_Emperor": {
         "params": [-9.43591609025673e-6, 6.776701178022474, -819.9928677566842],
         "metrics": { "RMSE": 34.90899675277789 },
-        "data_length": 4678
+        "data_length": 4678,
+        "warnings": []
     },
     "yuranis2": {
         "params": [0.0, 2.8695836449853673, 4.481323651843421],
         "metrics": { "RMSE": 1.1919969367113481e-7 },
-        "data_length": 1
+        "data_length": 1,
+        "warnings": [
+            "Covariance of the parameters could not be estimated",
+            "invalid value encountered in double_scalars"
+        ]
     },
     "z2sam": {
         "params": [
             -0.0005844103867206326, 2.685637575202631, 15.099772545667399
         ],
         "metrics": { "RMSE": 32.94732684155211 },
-        "data_length": 5113
+        "data_length": 5113,
+        "warnings": []
     },
     "Zack101155": {
         "params": [
             -0.004174956576093951, 3.8942842792866132, 25.61625867222476
         ],
         "metrics": { "RMSE": 9.71042054894489 },
-        "data_length": 1980
+        "data_length": 1980,
+        "warnings": []
     },
     "ZeroT": {
         "params": [
             -7.024292260595165e-6, 3.4391317133497417, -0.11742358365293609
         ],
         "metrics": { "RMSE": 6.947440962798981 },
-        "data_length": 3025
+        "data_length": 3025,
+        "warnings": []
     },
     "\u6316\u6398\u6b98\u75be\u4eba": {
         "params": [
             -4.997697352629992e-5, 5.731989451363395, -281.64515060533205
         ],
         "metrics": { "RMSE": 1.9527341125901794 },
-        "data_length": 224
+        "data_length": 224,
+        "warnings": []
     },
     "\u9001\u5206200000": {
         "params": [
             -2.0315131340927213e-5, 5.152593794881252, -143.68417534798448
         ],
         "metrics": { "RMSE": 53.58229135382446 },
-        "data_length": 511
+        "data_length": 511,
+        "warnings": []
     },
     "\ubbfc\ucd08\ub294\ub9db\uc788\uc5b4": {
         "params": [0.0, 2.867973518925484, 4.687686487083338],
         "metrics": { "RMSE": 2.0680761991798136e-7 },
-        "data_length": 1
+        "data_length": 1,
+        "warnings": [
+            "Covariance of the parameters could not be estimated",
+            "invalid value encountered in double_scalars"
+        ]
     },
     "\ubc1c\ub85c\ub780\ud2b8\ud558\uc2e4\ubd84": {
         "params": [0.17571262719079528, 2.9886838241766838, 2.500473268859329],
         "metrics": { "RMSE": 5.646804525895238e-8 },
-        "data_length": 2
+        "data_length": 2,
+        "warnings": ["Covariance of the parameters could not be estimated"]
     },
     "\uc2dd\ube75": {
         "params": [-0.002915563911853783, 3.404534387844728, 28.04221625924383],
         "metrics": { "RMSE": 11.075146055874228 },
-        "data_length": 1290
+        "data_length": 1290,
+        "warnings": []
     }
 }

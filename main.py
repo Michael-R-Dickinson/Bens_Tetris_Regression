@@ -5,6 +5,7 @@ import re
 import name_scraper
 from improvement_data_scraper import grab_player_stats
 import nonlinear_regression
+import warnings
 
 
 def func(x, a, b, c):
@@ -19,14 +20,18 @@ def main(running_dir, num_pages):
             num_pages, playerlist_filename)
 
     else:
-        with open(playerlist_filename, "r") as f:
+        with open(playerlist_filename, "r", encoding='utf-8') as f:
             playerlist = f.read().splitlines()
     print("Players Names Found")
 
     for i, player in enumerate(playerlist):
         if (not player) or os.path.exists(os.path.join(improvement_data_dir, f'jstris_data-{player}.tsv')):
             continue
-        grab_player_stats(player)
+        try:
+            grab_player_stats(player)
+
+        except Exception as e:
+            print(f"error {e} with {player}")
 
     print("Improvement Data Found")
 
@@ -37,25 +42,27 @@ def main(running_dir, num_pages):
         player_data = nonlinear_regression.load_data(improvement_data_abspath)
         xData, yData = player_data["dayssincestart"], player_data["time"]
 
-        # bad naming i know i know
-        params = nonlinear_regression.non_linear_regression(
-            func, xData, yData
-        )
+        with warnings.catch_warnings(record=True) as w:
+            # bad naming i know i know
+            params = nonlinear_regression.non_linear_regression(
+                func, xData, yData
+            )
 
-        metrics = nonlinear_regression.calculate_metrics(
-            func, xData, yData, params
-        )
+            metrics = nonlinear_regression.calculate_metrics(
+                func, xData, yData, params
+            )
 
-        # nonlinear_regression.plot_regression(
-        #     func, xData, yData, params
-        # )
+            # nonlinear_regression.plot_regression(
+            #     func, xData, yData, params
+            # )
 
-        regression_data[re.search(r'jstris_data-(.*?).tsv', improvement_data_path).group(1)] = {
-            "params": params.tolist(),
-            "metrics": metrics,
-            "data_length": len(xData),
-        }
-        print(f"{params=}, {metrics=}")
+            regression_data[re.search(r'jstris_data-(.*?).tsv', improvement_data_path).group(1)] = {
+                "params": params.tolist(),
+                "metrics": metrics,
+                "data_length": len(xData),
+                "warnings": [str(warning.message) for warning in w]
+            }
+            print(f"{params=}, {metrics=}")
 
     with open("regression_data.json", "w") as outfile:
         json.dump(regression_data, outfile)
