@@ -60,8 +60,9 @@ def main(running_dir, num_pages):
             regression_data[re.search(r'jstris_data-(.*?).tsv', improvement_data_path).group(1)] = {
                 "params": params.tolist(),
                 "metrics": metrics,
-                "data_length": len(xData),
-                "warnings": [str(warning.message) for warning in w]
+                "timeplayed": int(max(player_data['dayssincestart'])),
+                "gamesplayed": int(player_data['replay'].count()),
+                "warnings": [str(warning.message) for warning in w],
             }
 
     with open("regression_data.json", "w") as outfile:
