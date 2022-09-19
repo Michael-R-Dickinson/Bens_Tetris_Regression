@@ -37,17 +37,31 @@ def main(running_dir, num_pages):
     print("Improvement Data Found")
 
     regression_data = {}
+    if os.path.exists(os.path.join(running_dir, 'regression_data.json')):
+        with open(os.path.join(running_dir, 'regression_data.json'), 'r') as f:
+            precomputed_players = list(json.load(f).keys())
+
     for improvement_data_path in tqdm(os.listdir(improvement_data_dir), desc="Running Regressions"):
+        playername = re.search(
+            r'jstris_data-(.*?).tsv', improvement_data_path).group(1)
+        if playername in precomputed_players:
+            continue
+
         improvement_data_abspath = os.path.join(
             improvement_data_dir, improvement_data_path)
         player_data = nonlinear_regression.load_data(improvement_data_abspath)
         xData, yData = player_data["dayssincestart"], player_data["time"]
 
         with warnings.catch_warnings(record=True) as w:
-            # bad naming i know i know
-            params = nonlinear_regression.non_linear_regression(
-                func, xData, yData
-            )
+            try:
+                # bad naming i know i know
+                params = nonlinear_regression.non_linear_regression(
+                    func, xData, yData
+                )
+
+            except RuntimeError as e:
+                print(f"error {e} with {playername}")
+                continue
 
             metrics = nonlinear_regression.calculate_metrics(
                 func, xData, yData, params
@@ -57,12 +71,12 @@ def main(running_dir, num_pages):
             #     func, xData, yData, params
             # )
 
-            regression_data[re.search(r'jstris_data-(.*?).tsv', improvement_data_path).group(1)] = {
+            regression_data[playername] = {
                 "params": params.tolist(),
                 "metrics": metrics,
                 "timeplayed": int(max(player_data['dayssincestart'])),
                 "gamesplayed": int(player_data['replay'].count()),
-                "warnings": [str(warning.message) for warning in w],
+                "errors": [str(warning.message) for warning in w],
             }
 
     with open("regression_data.json", "w") as outfile:
@@ -71,4 +85,4 @@ def main(running_dir, num_pages):
 
 if __name__ == "__main__":
     running_dir = os.path.dirname(os.path.realpath(__file__))
-    main(running_dir, 10)
+    main(running_dir, 40)
